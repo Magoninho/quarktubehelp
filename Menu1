@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<body bgcolor="141212">
+
+<title>Quarktube</title>
+
+
+
+ <a href="#">
+ <img hspace="500px" title="Quarktube" src="https://cdn.discordapp.com/attachments/289499673268322316/289903225061244930/Quarktube.png" width="80px" height="80px"/></a>
+ <h1>Quarktube!</h1>
+ <img width="80px" height="80px" src="http://icon-icons.com/icons2/37/PNG/512/equalsign_delete_delete_igual_3934.png" title="Menu" style="position: absolute; left: 5px; top: 5px;"/></a>
+<h2>🔎</h2>
+
+
+
+
+
+
+
+<style>
+a:visited {
+	color: green;
+	
+	}
+.besta {
+	positon: absolute;
+	right: 300px;
+	
+	border-style: solid;
+	border-color: pink;
+	}
+a {
+		unvisited: green;
+	hover: red;
+	visited: green;
+	}
+p {
+	right: 300px;
+	}
+	.bb:visited {
+	color: green;
+	}
+h1 {
+	position: absolute;
+	top: 5px;
+	right: 600px;
+	font-family: Century Gothic;
+	color: white;
+}
+h2 {
+	position: absolute;
+	right:30px;
+	top: 0px;
+}
+
+
+
+
+</style>
+</body>
+</head>
+</html>
+
